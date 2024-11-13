@@ -26,7 +26,7 @@ Welcome to **Interactive Room Designer**, the innovative app that lets you desig
 ## ⚙️ Tech Stack
 
 - **Frontend**: [Streamlit](https://streamlit.io/)
-- **Backend**: [OpenAI GPT](https://openai.com/) + [ToolHouse](https://www.toolhouse.com/)
+- **Backend**: [OpenAI GPT](https://openai.com/) + [ToolHouse](https://toolhouse.ai/)
 - **Language**: Python
 
 ---
