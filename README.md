@@ -93,28 +93,28 @@ Meet our team! 🎉
       <a href="https://github.com/mpianrhko">
         <img src="https://github.com/mpianrhko.png" width="100px;" alt="mpianrhko"/>
         <br />
-        <sub><b>username1</b></sub>
+        <sub><b>mpianrhko</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/EP04">
         <img src="https://github.com/EP04.png" width="100px;" alt="EP04"/>
         <br />
-        <sub><b>username2</b></sub>
+        <sub><b>EP04</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/victorianwobodo">
         <img src="https://github.com/victorianwobodo.png" width="100px;" alt="victorianwobodo"/>
         <br />
-        <sub><b>username3</b></sub>
+        <sub><b>victorianwobodo</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/srimoyee1212">
         <img src="https://github.com/srimoyee1212.png" width="100px;" alt="srimoyee1212"/>
         <br />
-        <sub><b>username3</b></sub>
+        <sub><b>srimoyee1212</b></sub>
       </a>
     </td>
     <!-- Add more contributors here -->
