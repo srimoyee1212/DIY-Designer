@@ -1,5 +1,5 @@
-# 🏆 DIY Room Designer - Hackathon Prize 🏆
-**"Most Likely to Be a Business"** — [AI Hacknights with Cloudflare](https://github.com/kristianfreeman/ai-hacknights-cloudflare)
+# 🏆 DIY Room Designer - Hackathon Prize Winner 🏆
+**"Most Likely to Be a Business"** — [Toolhouse x Cloudflare Hackathon](https://github.com/kristianfreeman/ai-hacknights-cloudflare)
 
 Welcome to **Interactive Room Designer**, the innovative app that lets you design and customize a virtual room with ease. Powered by **ToolHouse**, **OpenAI GPT**, and **Streamlit**, our app generates realistic room images based on user descriptions and provides shopping links for each component, making interior design accessible and interactive!
 
