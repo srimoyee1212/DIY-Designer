@@ -9,6 +9,7 @@ Welcome to **Interactive Room Designer**, the innovative app that lets you desig
 [Hackathon Presentation](https://docs.google.com/presentation/d/1q1e6sRevsFAF9X9173K_BWbJd3BQDpHYqNExA6YyryA/edit?usp=sharing)
 
 [Room Designer Demo](https://drive.google.com/file/d/12foJj8qzN0_oC-O1RjSdIrNj1Xg50nv2/view?usp=sharing)  
+
 *Easily initialize, update, and visualize your custom room!*
 
 ---
