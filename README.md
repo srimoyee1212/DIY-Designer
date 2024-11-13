@@ -119,7 +119,13 @@ Meet our team! 🎉
         <sub><b>srimoyee1212</b></sub>
       </a>
     </td>
-    <!-- Add more contributors here -->
+    <td align="center">
+      <a href="https://github.com/123jklas">
+        <img src="https://github.com/123jklas.png" width="100px;" alt="123jklas"/>
+        <br />
+        <sub><b>123jklas</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
