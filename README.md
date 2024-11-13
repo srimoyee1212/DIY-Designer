@@ -125,7 +125,7 @@ Meet our team! 🎉
 
 ## 💬 Feedback
 
-We welcome feedback! If you have ideas for improvements or find any issues, please [open an issue](https://github.com/your-username/interactive-room-designer/issues) or submit a pull request.
+We welcome feedback! If you have ideas for improvements or find any issues, please [open an issue](https://github.com/your-username/DIY-Designer/issues) or submit a pull request.
 
 ## 📜 License
 
